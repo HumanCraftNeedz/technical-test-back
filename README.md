@@ -40,7 +40,7 @@ L’objectif est d’évaluer **votre manière de structurer, prioriser, modéli
 
 ## 2️⃣ Test #2 – Conception fonctionnelle (pas de code à produire)
 
-Ce second test est plus rapide et ne nécessite pas d’écrire du code. Il vise à évaluer **votre capacité à concevoir une solution technique et fonctionnelle**.
+Ce second test est plus rapide et ne nécessite pas d’écrire du code mais plutôt de nous expliquer comment vous concevriez et mettriez en œuvre cette nouvelle fonctionnalité.
 
 ### 🎯 Contexte
 
@@ -56,11 +56,12 @@ Nous souhaitons :
 
 ### 📌 Votre mission
 
-- Décrivez les **différents blocs logiques à mettre en place** et **leur rôle** ;
-- Vous êtes libre de choisir le **format de présentation** (schéma, slides, texte...) ;
-- Présentez votre approche de manière claire et synthétique, comme si vous vous adressiez à un membre de l’équipe Produit.
+- Décrire les grandes étapes de votre approche : par quoi commenceriez-vous ? quelles décisions techniques prendriez-vous ?
+- Présenter les éléments clés à mettre en place, en expliquant leur rôle (ex. : gestion de l’envoi des fichiers, traitement en arrière-plan, retour à l’utilisateur, suivi du traitement, etc.).
+- Vous pouvez utiliser le format de votre choix : texte, schéma, présentation, document structuré…
+- Mettez-vous dans la peau d’un·e développeur·se qui doit expliquer sa solution à un membre de l’équipe Produit : soyez clair, synthétique, et montrez votre capacité à structurer une réponse sans entrer dans les détails de l’implémentation technique.
 
-👉 **Aucun code n’est attendu** ici, mais une présentation de votre démarche.
+👉 N'éhsitez pasA nouveau, **aucun code n’est attendu** ici, mais une présentation de votre démarche.
 
 ---
 
