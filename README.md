@@ -11,11 +11,13 @@ Ce test a pour objectif d’évaluer vos compétences techniques ainsi que votre
 ## 🗂️ Modalités générales
 
 - Il n’y a **pas de limite de temps imposée**, mais nous vous demandons de nous transmettre vos propositions avant votre prochain entretien à :  
-  📩 `vthomas@humancraft.eu` et `lelkasm@humancraft.eu`
+  📩 `vthomas@humancraft.eu` et `lelkasm@humancraft.eu` 
 
 - Nous discuterons ensemble de vos propositions lors de l’entretien
 
 - Le fichier `needs.openapi.yaml` fourni contient les **spécifications OpenAPI** définissant les routes à implémenter.
+
+👉 En cas de question ou de doute, n’hésitez pas à nous écrire aux adresses ci-dessus — nous serons ravis de vous répondre !
 
 ---
 
