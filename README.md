@@ -29,7 +29,9 @@ Ce test est le plus complet. Nous attendons de vous la **production de code** su
 - Le choix du moteur de base de données est **libre** (MySQL, PostgreSQL, SQLite, etc.).
 - Le rendu doit être effectué sous la forme d’un **repository GitHub**.
 
-L’objectif est d’évaluer **votre manière de structurer, prioriser, modéliser et implémenter une solution**, plus que la complétude exhaustive.
+🔎 Si vous avez l’habitude de travailler en TDD ou avec des tests automatisés, n’hésitez pas à les inclure dans votre développement : cela nous donnera un aperçu de votre rigueur et de vos pratiques de qualité logicielle.
+
+L’objectif est d’évaluer **votre manière de structurer, prioriser, modéliser et implémenter une solution**.
 
 ---
 
