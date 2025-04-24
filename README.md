@@ -11,7 +11,7 @@ Ces 2 tests ont pour objectif d’évaluer vos compétences techniques ainsi que
 ## 🗂️ Modalités générales
 
 - Il n’y a **pas de limite de temps imposée**, mais nous vous demandons de nous transmettre vos propositions avant votre prochain entretien à :  
-  📩 `vthomas@humancraft.eu` et `lelkasm@humancraft.eu` 
+  📩 [vthomas@humancraft.eu](vthomas@humancraft.eu) et [lelkasm@humancraft.eu](lelkasm@humancraft.eu) 
 
 - Nous discuterons ensemble de vos propositions lors de l’entretien
 
