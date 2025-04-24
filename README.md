@@ -4,7 +4,7 @@ Bonjour et bienvenue ! 👋
 
 Si vous êtes ici, c’est que nous avons souhaité poursuivre ensemble le processus de recrutement — et nous en sommes ravis !
 
-Ce test a pour objectif d’évaluer vos compétences techniques ainsi que votre manière d’aborder le développement de nouvelles fonctionnalités dans le cadre d’une application. Il couvre plusieurs aspects clés du métier de développeur·se backend.
+Ces 2 tests ont pour objectif d’évaluer vos compétences techniques ainsi que votre manière d’aborder le développement de nouvelles fonctionnalités dans le cadre d’une application. Il couvre plusieurs aspects clés du métier de développeur·se backend.
 
 ---
 
@@ -64,7 +64,7 @@ Nous souhaitons :
 
 ---
 
-## 🧠 Ce que nous évaluons
+## 🧠 Ce que nous évaluons à travers ces tests
 
 Nous porterons une attention particulière à :
 
