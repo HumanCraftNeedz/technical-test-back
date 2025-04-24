@@ -1,6 +1,6 @@
 # 🧪 Test technique – Développeur·se Backend chez HumanCraft
 
-Bonjour et bienvenue !
+Bonjour et bienvenue ! 👋
 
 Si vous êtes ici, c’est que nous avons souhaité poursuivre ensemble le processus de recrutement — et nous en sommes ravis !
 
