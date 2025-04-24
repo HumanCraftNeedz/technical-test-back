@@ -60,8 +60,7 @@ Nous souhaitons :
 - Présenter les éléments clés à mettre en place, en expliquant leur rôle (ex. : gestion de l’envoi des fichiers, traitement en arrière-plan, retour à l’utilisateur, suivi du traitement, etc.).
 - Vous pouvez utiliser le format de votre choix : texte, schéma, présentation, document structuré…
 - Mettez-vous dans la peau d’un·e développeur·se qui doit expliquer sa solution à un membre de l’équipe Produit : soyez clair, synthétique, et montrez votre capacité à structurer une réponse sans entrer dans les détails de l’implémentation technique.
-
-👉 N'éhsitez pasA nouveau, **aucun code n’est attendu** ici, mais une présentation de votre démarche.
+- N’hésitez pas à faire vos propres hypothèses sur le contexte technique ou fonctionnel (par exemple sur le volume de CV à traiter, les technologies utilisées, etc.), à condition de bien les expliciter dans votre livrable.
 
 ---
 
