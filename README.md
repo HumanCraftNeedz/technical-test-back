@@ -36,7 +36,7 @@ L’objectif est d’évaluer **votre manière de structurer, prioriser, modéli
 
 ---
 
-## 2️⃣ Test #2 – Conception fonctionnelle
+## 2️⃣ Test #2 – Conception fonctionnelle (pas de code à produire)
 
 Ce second test est plus rapide et ne nécessite pas d’écrire du code. Il vise à évaluer **votre capacité à concevoir une solution technique et fonctionnelle**.
 
