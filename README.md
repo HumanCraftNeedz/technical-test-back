@@ -15,7 +15,7 @@ Ces 2 tests ont pour objectif d’évaluer vos compétences techniques ainsi que
 
 - Nous discuterons ensemble de vos propositions lors de l’entretien
 
-- Le fichier `needs.openapi.yaml` fourni contient les **spécifications OpenAPI** définissant les routes à implémenter.
+- Le fichier [needs.openapi.yaml](needs.openapi.yaml) fourni contient les **spécifications OpenAPI** définissant les routes à implémenter. 
 
 👉 En cas de question ou de doute, n’hésitez pas à nous écrire aux adresses ci-dessus — nous serons ravis de vous répondre !
 
