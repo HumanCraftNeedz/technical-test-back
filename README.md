@@ -58,7 +58,7 @@ Nous souhaitons :
 - Vous êtes libre de choisir le **format de présentation** (schéma, slides, texte...) ;
 - Présentez votre approche de manière claire et synthétique, comme si vous vous adressiez à un membre de l’équipe Produit.
 
-👉 **Aucun code n’est attendu** ici, mais une démarche claire et structurée.
+👉 **Aucun code n’est attendu** ici, mais une présentation de votre démarche.
 
 ---
 
